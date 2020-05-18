@@ -91,7 +91,7 @@ More details about how this files are generated can be seen in the comments of e
 
 # 9 Months Report:
 
-The 9 months report can also be found in this repository. You can have access to it [here]().
+The 9 months report can also be found in this repository. You can have access to it [here](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/blob/master/9%20Month%20Report%20-%20Esteban%20Alberto%20Gomez%20Cifuentes.pdf).
  
  
 
